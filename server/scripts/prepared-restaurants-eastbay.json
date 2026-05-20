@@ -1,0 +1,682 @@
+[
+  {
+    "name": "Claremont Resort & Club",
+    "address": "41 Tunnel Road, Berkeley",
+    "contactInfo": "OPERATIONAL",
+    "hours": "5:00 PM - 11:00 PM",
+    "cuisineType": "Mixed",
+    "costRating": "CHEAP",
+    "description": "Imported from Google Places API",
+    "main_image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AeeoHcImGlSdE-_EbZ-DzCBn1rMow-fupbMAhfwz4gYfn-X-HOxgn2kEP_RpOG47WPDWcw_-HAVwC8qKkQhLGvd4nM2ujv4HJx17uqjYOAwVw9-JpMWbOKzSBnwGWHry3Cs9F5emU6Ij2KFVSmfDzpVmYlB1RplJr24h4rzkBdMdnYaITsB88ii6DblrEgvSg4CAB7gKF-jJY-7IinWiDo5rbk-pNwgeomYpaqKOzwkDfuK9jhDlR9MVvog9FomJK0axVl62bJb7M1iodFWoR_w2M5lVHTIb8yfHBWQPpXQx2LKo71yP0n5klmTjMJ4V9x4fusmQ4TVZ7Ic&key=AIzaSyAIvaYoXWiNpAPOAGWknC1vwIV2tAnAwcE",
+    "images": [],
+    "slug": "claremont-resort-&-club",
+    "price": "CHEAP",
+    "tableSizes": [
+      2,
+      4,
+      6
+    ],
+    "availableTimes": [
+      "18:00",
+      "19:30",
+      "21:00"
+    ],
+    "status": "Pending",
+    "locationCoords": {
+      "lat": 37.8590352,
+      "lng": -122.2420658
+    },
+    "googlePlaceId": "ChIJUZZ3F7Z9hYARjWG2iXRboAk",
+    "location": "681556388b433d54ba8e576b",
+    "cuisine": "681555a0fb36ee657e02c30a",
+    "reviews": [],
+    "bookings": [],
+    "tables": []
+  },
+  {
+    "name": "Graduate by Hilton Berkeley",
+    "address": "2600 Durant Avenue, Berkeley",
+    "contactInfo": "OPERATIONAL",
+    "hours": "5:00 PM - 11:00 PM",
+    "cuisineType": "Mixed",
+    "costRating": "REGULAR",
+    "description": "Imported from Google Places API",
+    "main_image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AeeoHcKu17wizUX_ao31JMDrw4eDAYzGCoPaAtQr3sUONmPTLpzTrDGmMy4frK-phOQ81G1R4biMVjeEdtZpEObjdJSQ_zEqoVj8JUebFoSTbkvWczcSA3Aq2ZXWPZ7-ZeVlYng0CaRh7qGtbp3_ZePLmVfD9PAmln5kZhrMGkbv6rnX68BZiqzkkLVSSzgS3jyTSZEREgdIyi5jUSnkhEOs73lhR02gUpfCj_RGMF_Rp0PFdCEBJGoLTD7ZVHzdl-ukwD-w7jxcszYZjR9P5UcvQD3iXKqUzmBAM34Y5z1h7ePbBWzTVSi80e6oFnKiHOjJAHLfYn39qXU&key=AIzaSyAIvaYoXWiNpAPOAGWknC1vwIV2tAnAwcE",
+    "images": [],
+    "slug": "graduate-by-hilton-berkeley",
+    "price": "REGULAR",
+    "tableSizes": [
+      2,
+      4,
+      6
+    ],
+    "availableTimes": [
+      "18:00",
+      "19:30",
+      "21:00"
+    ],
+    "status": "Pending",
+    "locationCoords": {
+      "lat": 37.8679648,
+      "lng": -122.2563185
+    },
+    "googlePlaceId": "ChIJO1q-ry98hYARXdN27wXhtqg",
+    "location": "681556388b433d54ba8e576b",
+    "cuisine": "681555a0fb36ee657e02c30a",
+    "reviews": [],
+    "bookings": [],
+    "tables": []
+  },
+  {
+    "name": "Hotel Shattuck Plaza",
+    "address": "2086 Allston Way, Berkeley",
+    "contactInfo": "OPERATIONAL",
+    "hours": "5:00 PM - 11:00 PM",
+    "cuisineType": "Mixed",
+    "costRating": "EXPENSIVE",
+    "description": "Imported from Google Places API",
+    "main_image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AeeoHcLPOs4lYWR3-OVmgKB16Nxc5UgRt-WWcNx0IX9w0WEMFAUzvyHm7Dp3rl58eiwnE9xAqDN9kHglAf76ZmpNMdigl1Md7H3gec3-RxX6ETdywMaMHm_oK6xhbU-hfXE4pH6kAUc-KC9ri5UUNj4cBpKgrzph78tdBeBWK6vdIFIha4RKMr4vyAJaEJtvgI7QrTp2zLxWBCWau9J-xUY1nDGVh8wB13_C3rFuftiRuUJwYpZr9_ed9OsiOhWd3H5YSVEMOh5iUl593LdghUj9ugkwJaMPmEIGMWdc6zfCetu_sL63Q78rhwJ4DuKMlqbS67BYMLma7Nk&key=AIzaSyAIvaYoXWiNpAPOAGWknC1vwIV2tAnAwcE",
+    "images": [],
+    "slug": "hotel-shattuck-plaza",
+    "price": "EXPENSIVE",
+    "tableSizes": [
+      2,
+      4,
+      6
+    ],
+    "availableTimes": [
+      "18:00",
+      "19:30",
+      "21:00"
+    ],
+    "status": "Pending",
+    "locationCoords": {
+      "lat": 37.86918319999999,
+      "lng": -122.2684195
+    },
+    "googlePlaceId": "ChIJ9SUZTJx-hYARuXH-EbqeQjU",
+    "location": "681556388b433d54ba8e576b",
+    "cuisine": "681555a0fb36ee657e02c30a",
+    "reviews": [],
+    "bookings": [],
+    "tables": []
+  },
+  {
+    "name": "Yoshi's",
+    "address": "510 Embarcadero West, Oakland",
+    "contactInfo": "OPERATIONAL",
+    "hours": "5:00 PM - 11:00 PM",
+    "cuisineType": "Mixed",
+    "costRating": "CHEAP",
+    "description": "Imported from Google Places API",
+    "main_image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AeeoHcL9TwqcF4wquhaIlcUhIIDLsznraEWK8p6aadstaStnvB9gsPkoUC7cnhwwjoocuEr-F26jYTzFV0xn1vigJWyAf4_6HI1kRr1Nfe3KNWB_KRv7mdmhweaWJ7mGcQ0mEIfJO5ajn57gTnRHi7x_Q0Y28iSqhUI__vriBRhIjSX94iFDkD6aB5QRgCrHiCkHXCENI-mEr1lrQN4jS-8B6Y9Kr7QTri_Px2OIUsF8lt5DRcRPN9q5T0aBWh2JZRQr-Y_kskD0Ja7nkB1DzvLnXm4OZd5rGrNt5I1YbqEwhqGFqp3N_aq0mXfcc1Hg445BM-Suo9PuUgMAeSTJxlKGyX3Cy6478Sl6MbLgv3xIKb4R1GvWXGdCEeK6jLHvho_Q6QzIJY2iDLNR1jkLMyNCBLfVgxaQfbbxuSbwamM8j_3sGm2F9lOx7HumBYQ5YX6_k6Fo_8daiHkFpy-ARGG6VcPm2ijoc-6XWJx0ge95vooxufCKOCDee1ZwNPauu4v0uSi8w-gtMRQ2TJvCW6T6RIih4XBcrfAE_1h7NNgYeZmecss9P9kn-AP8i3FmIsACdqHCM0ZK4-HQ_a1guC2Bmk6cgvFJZQ1m80Kx91G0KCT4jx95O6qjJWH9IMzUppyPEMQC1ky1&key=AIzaSyAIvaYoXWiNpAPOAGWknC1vwIV2tAnAwcE",
+    "images": [],
+    "slug": "yoshi's",
+    "price": "CHEAP",
+    "tableSizes": [
+      2,
+      4,
+      6
+    ],
+    "availableTimes": [
+      "18:00",
+      "19:30",
+      "21:00"
+    ],
+    "status": "Pending",
+    "locationCoords": {
+      "lat": 37.7963889,
+      "lng": -122.2788889
+    },
+    "googlePlaceId": "ChIJxyGNjMeAj4ARPsZG3cEG1Jc",
+    "location": "681556388b433d54ba8e576c",
+    "cuisine": "681555a0fb36ee657e02c30a",
+    "reviews": [],
+    "bookings": [],
+    "tables": []
+  },
+  {
+    "name": "Zachary's Chicago Pizza",
+    "address": "5801 College Avenue, Oakland",
+    "contactInfo": "OPERATIONAL",
+    "hours": "5:00 PM - 11:00 PM",
+    "cuisineType": "Mixed",
+    "costRating": "REGULAR",
+    "description": "Imported from Google Places API",
+    "main_image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AeeoHcI7Ww3gh4205XZzngKlf7mKM25nFkWJv5ut4NmuoSBdcNImQZjF0jiGrigHsMt9YIXH5cDs83pRx6miV6N4rQZDG7k56Tu4FLjEM51pqofsA3zZd_B-ybrr1L6GCsUigvBNg773o0AwCZA3vu_qUt2WWsMmDY2TY-_DjxNikABVVSIWGvtrNxjUamb0p_bw8oku8Vtapcza8f9HMvKqbA7G5-u83CHeylq1Dzu4i9rp0hwRGnVVs-L1Mq3jnxK3R9IMkffh0AOY5ug0NxLcqtECoVPnpmqolyBYuny4uOhx7TTdQ-u_MDCsiCem92OKqqgqn_V_ofL1FrohTHkIB0d-4qed9ryCSAM3HOhQEWiQBYn1jAlu7m7-RLND_ivz_vEMdt2uci9Jf6QPZFltoWehKDkzz8P6IUcdeOznaKaAdOoFfvtqTkJ_M5ulRo984-C_HnHS8zQFX53HD-iKIVAlNuBdjHByXN3BoflEJRDICkRClqAj17-l7lwEUl11P_oGjDQ9PPvgjmiYQ-TrRsOXdBGOivnfjBaQcj7yi-yqybzbNQiO_JmmVxwSOFbC-CTulJFasWpemrXZb32NVsi2i91R3BvBVQLwDW4uH0gIIjm04WKxMujYtsk6p0viwNOYjaqM&key=AIzaSyAIvaYoXWiNpAPOAGWknC1vwIV2tAnAwcE",
+    "images": [],
+    "slug": "zachary's-chicago-pizza",
+    "price": "REGULAR",
+    "tableSizes": [
+      2,
+      4,
+      6
+    ],
+    "availableTimes": [
+      "18:00",
+      "19:30",
+      "21:00"
+    ],
+    "status": "Pending",
+    "locationCoords": {
+      "lat": 37.8462961,
+      "lng": -122.2521527
+    },
+    "googlePlaceId": "ChIJ9bZJbMN9hYARZ3JGwPCPnfc",
+    "location": "681556388b433d54ba8e576c",
+    "cuisine": "681555a0fb36ee657e02c30a",
+    "reviews": [],
+    "bookings": [],
+    "tables": []
+  },
+  {
+    "name": "Jupiter",
+    "address": "2181 Shattuck Avenue, Berkeley",
+    "contactInfo": "OPERATIONAL",
+    "hours": "5:00 PM - 11:00 PM",
+    "cuisineType": "Mixed",
+    "costRating": "EXPENSIVE",
+    "description": "Imported from Google Places API",
+    "main_image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AeeoHcLQH1NECBhcOdqBNGLyxZVxlpU570GymhpgEju86M4MRfzq-Z00jUxdkxizgYTqJywUtq3KjfbXKEJdb0AMrh5Si3l3B8_gcxRF_xk3i5n74dpyorF8VzFnpUemvCUXLKpeS2pqUFWjn1ew_JIbRC-aTQ5ylgyoX-w6RCuEwLygi5rNQ-4cp2bRjd5gTr4d0HwzxFzrSK9_5A76jzTco9CLgD-Zd-59cCailvqQX_LePanTOsqVG8UaRYZOdbPPgJY1wxaYUZCsg8XMd_3CG6LY5Y9RxtjzfO2nBWE04Xs6egV5J1DRMotNfsxPfvHcLJB8Udd9CLuDZ3B9UTWhHh5zyXG5S3qoEr2MHDksEOm3qC_DSfij1Ccx7cEkJGdIvQuMPx-nDgzWVkAnaL7LnbfT9SNRqlMFX8LKLx07i91TVOjNpm0wcjblrWVAx7dST0uICdMeJN9ybtlD6KP0InXNlzWjWFPb7Kf8Ry1Lh3qSBoeSrI_Qwy_8fUb-8zPR_Im7rRGM_lMNyILORFxwS0bRgnRNBpSDNflZehVouOhqvmwx2yi9DA81rtc3frRQ49spUZi9UsR6yGQIDsj0e_V5DUj_Q9mKAPFyBamEHflaKB-GzBFXOU2HD-qdvGfOOJ9aOvh-&key=AIzaSyAIvaYoXWiNpAPOAGWknC1vwIV2tAnAwcE",
+    "images": [],
+    "slug": "jupiter",
+    "price": "EXPENSIVE",
+    "tableSizes": [
+      2,
+      4,
+      6
+    ],
+    "availableTimes": [
+      "18:00",
+      "19:30",
+      "21:00"
+    ],
+    "status": "Pending",
+    "locationCoords": {
+      "lat": 37.8697958,
+      "lng": -122.267582
+    },
+    "googlePlaceId": "ChIJNwUiuJ1-hYARlmMobInl1SI",
+    "location": "681556388b433d54ba8e576b",
+    "cuisine": "681555a0fb36ee657e02c30a",
+    "reviews": [],
+    "bookings": [],
+    "tables": []
+  },
+  {
+    "name": "The Lake Chalet Seafood Bar & Grill",
+    "address": "1520 Lakeside Drive, Oakland",
+    "contactInfo": "OPERATIONAL",
+    "hours": "5:00 PM - 11:00 PM",
+    "cuisineType": "Mixed",
+    "costRating": "CHEAP",
+    "description": "Imported from Google Places API",
+    "main_image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AeeoHcJUTjdFBIwricr6ESNUCeqclVDRXMknUHkHM7Ti9d5Xcz6u5ptWyZhAccdv-yPADIg8-Gpp2PV6EuIhnD3SjsPSQfxy_mDFZL8AE_OWLK1LeSWEramdk78DuJ8U1OM1xHsgvCfG7nXEwcPnyLShAcmc8OwZz0RJIn0M87uT_ItffoWSpm0pVt4hhFprtDpc9t1fXaSwFduZ6naS65dgv4hCF9SU4zksTdXfxWaLB2QGccRVzdk8fLBCbI8Ie_W_K52790shUugnVuxmE5D-8CZoS3XWpVPTg0Lnqa55OnURwk22dj_vYfdRt5cPAQiZeuumKMyppbhIoYL5AI0XO_In5s7_64nfwrgMqDFASZ_Kt_ebD4NF7N5dBNlQtooRArRFvXXh1KuXCxggw-APawFed0fMfJ5erU2z3AQDfH2-Rv5_dUg3QPGlc1nrHWvR4bA-Tj1K-QXQL-OtBzenJBAb5WuA_BvWON4Jl0I3dyxGDHLJuvCnRNEaxlBP7Dlb8QzEItt5lCVsgBe4SuSfvY3Bc9p5tOKnjlFmZCUythcaYMTR-_3fwb0JFtncuLOolRLCOjQCFJvWFuOPHMupS-jON4ol76QFX6r4_4v2vujb9YYJAIRfQiT3MjEmmJ2BMejCHg&key=AIzaSyAIvaYoXWiNpAPOAGWknC1vwIV2tAnAwcE",
+    "images": [],
+    "slug": "the-lake-chalet-seafood-bar-&-grill",
+    "price": "CHEAP",
+    "tableSizes": [
+      2,
+      4,
+      6
+    ],
+    "availableTimes": [
+      "18:00",
+      "19:30",
+      "21:00"
+    ],
+    "status": "Pending",
+    "locationCoords": {
+      "lat": 37.8022723,
+      "lng": -122.2615161
+    },
+    "googlePlaceId": "ChIJk5SFZ0qHj4ARgHF_fZQLnIM",
+    "location": "681556388b433d54ba8e576c",
+    "cuisine": "681555a0fb36ee657e02c30a",
+    "reviews": [],
+    "bookings": [],
+    "tables": []
+  },
+  {
+    "name": "Millennium",
+    "address": "5912 College Avenue, Oakland",
+    "contactInfo": "OPERATIONAL",
+    "hours": "5:00 PM - 11:00 PM",
+    "cuisineType": "Mixed",
+    "costRating": "REGULAR",
+    "description": "Imported from Google Places API",
+    "main_image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AeeoHcJPAKHIxFQ7QvQ9YdVY5dZRo4-JJsZxzUXm_abxzo_VZL42HEJkD4GI0BDbUUdf2GFcNvLPfSS7OHCHMVsS8c7EHkyRYhS732MVtaAAtx5nvlQPzdy5DY8w0TLfqF-pGdmLg1xZ_lvprtCawcWFrH5X1Pat3fX9NYdoZs7Cu0i71cRVVeBBTyZZgV-6xDQ4S__zAoanmwi65R86vcLJDae_C6b1AUQIsKs_8lBili5sK-IhoUI_miFbsMGPfG3SQ-p35x9BLfrDBiAqtw7NBWZzCi21b9al3CJmQYCe9ixfcTdrGbnnXReKU5075Pjy9PO9RgkzIOA&key=AIzaSyAIvaYoXWiNpAPOAGWknC1vwIV2tAnAwcE",
+    "images": [],
+    "slug": "millennium",
+    "price": "REGULAR",
+    "tableSizes": [
+      2,
+      4,
+      6
+    ],
+    "availableTimes": [
+      "18:00",
+      "19:30",
+      "21:00"
+    ],
+    "status": "Pending",
+    "locationCoords": {
+      "lat": 37.8474479,
+      "lng": -122.2519064
+    },
+    "googlePlaceId": "ChIJ6XYD2ZGAhYARhDX0sVfc6Cc",
+    "location": "681556388b433d54ba8e576c",
+    "cuisine": "681555a0fb36ee657e02c30a",
+    "reviews": [],
+    "bookings": [],
+    "tables": []
+  },
+  {
+    "name": "Fentons Creamery",
+    "address": "4226 Piedmont Avenue, Oakland",
+    "contactInfo": "OPERATIONAL",
+    "hours": "5:00 PM - 11:00 PM",
+    "cuisineType": "Mixed",
+    "costRating": "EXPENSIVE",
+    "description": "Imported from Google Places API",
+    "main_image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AeeoHcJIUMRp6eD5iWVm-ejjvj0BFHVq562XBbgUIt4PnCqDt8arTWVua1HFLYq5f0aIQR0-qqXNQU3PGirYmfQaO8NEXM7QTh-FZQOZjM4KLZB36I3GDNO4xqYNiH0SdrpWHkupG49Y2MXrLbdHC9keAvgIEsoTon8Ntdxj1xxAa6ONU9WmWBUTPOYUE1BpRG2-N9ZM8Bx0DbvFuUhUmHry93LOorO9W85Q_IzVJy-0nqOFQITgr9-yXSx7tFzncuAOdMOdD8cDsgoxG2XtMl4oqgC8XIK2fvb-2QOHp0aRtechbZtBgsCtuqJSludKNSmPogbLA4wdAtI&key=AIzaSyAIvaYoXWiNpAPOAGWknC1vwIV2tAnAwcE",
+    "images": [],
+    "slug": "fentons-creamery",
+    "price": "EXPENSIVE",
+    "tableSizes": [
+      2,
+      4,
+      6
+    ],
+    "availableTimes": [
+      "18:00",
+      "19:30",
+      "21:00"
+    ],
+    "status": "Pending",
+    "locationCoords": {
+      "lat": 37.8279857,
+      "lng": -122.2500627
+    },
+    "googlePlaceId": "ChIJu948xPZ9hYARMOy-BUTq8pE",
+    "location": "681556388b433d54ba8e576c",
+    "cuisine": "681555a0fb36ee657e02c30a",
+    "reviews": [],
+    "bookings": [],
+    "tables": []
+  },
+  {
+    "name": "Chez Panisse",
+    "address": "1517 Shattuck Avenue, Berkeley",
+    "contactInfo": "OPERATIONAL",
+    "hours": "5:00 PM - 11:00 PM",
+    "cuisineType": "Mixed",
+    "costRating": "CHEAP",
+    "description": "Imported from Google Places API",
+    "main_image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AeeoHcIH1mt5-ht84p-VVxFkWqbN0xIGiPpQ9FcBDMLPz3tmDNdDX8c0CGHB7St0yuvTI2w9ff-oFVluAvH5YoepNowZCzHim8Z9UXlZpFa1D01S9TZsYyRnz3C7BINUpq6SioUD6PuT_lu7i6UxH6Qx4ShPlhFwAzPpUFqaMSTV5R2wPWy_4CpY5JFF3aRJQou-X08Acfj7r0AOwoiQ_S1LUQ-9XCXLDjB80jl985OOUsP0uw5sQcOWwqI8n3QZzhemzk3-nGYwIs-3xyp62eyBuXQULtr-ceeZ-j1Qw0QT0wfApZZsz_LVyFS5GbHphDL31R2ScxarQUEAKWnNFlBakOvQQJlUxycC9rYS2HerKLQugOW0s2S3ie_huy4o5t0f08Oc7t4-koISZAZ9bryq50NtjenfohieuhDSxioA0PShRrI31bCci5kGPI0H1u5HQJIkkkoEIov7h07CshnahS4lMSKZe3uQvJkLfdD-EwmAjI2Wjsa741CdeD31jmMMSaWpwMWKzgue7AdIANN07t8NFwnGZsF7N9DCXhVg2OgEiPzuXY3-e0c5o0qEWpi2qCzt8XyTbXn6ebPB-F7-ErZ3_535J9t0vyMos19hG2Pbk7Vgl5LJiliw2cZvePUpVC3Bmw&key=AIzaSyAIvaYoXWiNpAPOAGWknC1vwIV2tAnAwcE",
+    "images": [],
+    "slug": "chez-panisse",
+    "price": "CHEAP",
+    "tableSizes": [
+      2,
+      4,
+      6
+    ],
+    "availableTimes": [
+      "18:00",
+      "19:30",
+      "21:00"
+    ],
+    "status": "Pending",
+    "locationCoords": {
+      "lat": 37.8796069,
+      "lng": -122.2689248
+    },
+    "googlePlaceId": "ChIJcYtcJaF-hYAR-VzrwZpQY0E",
+    "location": "681556388b433d54ba8e576b",
+    "cuisine": "681555a0fb36ee657e02c30a",
+    "reviews": [],
+    "bookings": [],
+    "tables": []
+  },
+  {
+    "name": "Skates On The Bay",
+    "address": "100 Seawall Drive, Berkeley",
+    "contactInfo": "OPERATIONAL",
+    "hours": "5:00 PM - 11:00 PM",
+    "cuisineType": "Mixed",
+    "costRating": "REGULAR",
+    "description": "Imported from Google Places API",
+    "main_image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AeeoHcIRyF_TpTpIY-i6do5NZQ-5jcPCQSutv3lk8bxvmzuF28sxQKSk8fOsQJXhqFFHCM-aIv_8tIj_bHydaWEKWA0q9xlD0r7_no63r1xH0EijHfnAl_wMYs12YNWTh57zr3DZ5DuaoH-0OQ8tC_KqqjJxKtKTxxTpqwfIQMtVWYNlRf_1plF2-88epSe8fcl69Z6CV1g7pmEQdC2GB-svqPUZHJi2MU7cM6XEazHgFK3WQZFJ8N_5iKBt4sKk_2JocvwBwhw-G8GNib9nhQgCKrmUdEYKytYMr_6Su6t4wfgCFYSu1DHJc3Rz3VgLaTimnZWpVlAmhNg&key=AIzaSyAIvaYoXWiNpAPOAGWknC1vwIV2tAnAwcE",
+    "images": [],
+    "slug": "skates-on-the-bay",
+    "price": "REGULAR",
+    "tableSizes": [
+      2,
+      4,
+      6
+    ],
+    "availableTimes": [
+      "18:00",
+      "19:30",
+      "21:00"
+    ],
+    "status": "Pending",
+    "locationCoords": {
+      "lat": 37.8636571,
+      "lng": -122.3180164
+    },
+    "googlePlaceId": "ChIJjU9u7SN_hYARmRvUMMDgJXw",
+    "location": "681556388b433d54ba8e576b",
+    "cuisine": "681555a0fb36ee657e02c30a",
+    "reviews": [],
+    "bookings": [],
+    "tables": []
+  },
+  {
+    "name": "Awaken Cafe & Roasting",
+    "address": "1429 Broadway, Oakland",
+    "contactInfo": "OPERATIONAL",
+    "hours": "5:00 PM - 11:00 PM",
+    "cuisineType": "Mixed",
+    "costRating": "EXPENSIVE",
+    "description": "Imported from Google Places API",
+    "main_image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AeeoHcLRzZ_RzthOyhL7ayZr0h6s1jT_pyE1Z1wTMj6yBwGmspOo0nClkJr8jeXSxqAvITVDnNZOwEmtAptsV56o4yedtJcU22ji3fhA3lNhBcbChj53HVP-QS60CZJKiYO8rBA2d3hcwPH8uPmgHoT9aA9mdbguJjNiv9YO3oKTssx5SQwfpeUxoVmgMralfQlq8l6HP64ov9Dn-AXJ8fZZjqhpwX7yVSfX0i7LKzkrQDkFKJS6h4pZdMf_lULNEwZ6c96mjNSajTNm4NZ31nKHywlLh3yKtZiS7hi4m1ebvA2_q5Ckfys8zbEz6N6OGuI1zUVDeGmqAuQ&key=AIzaSyAIvaYoXWiNpAPOAGWknC1vwIV2tAnAwcE",
+    "images": [],
+    "slug": "awaken-cafe-&-roasting",
+    "price": "EXPENSIVE",
+    "tableSizes": [
+      2,
+      4,
+      6
+    ],
+    "availableTimes": [
+      "18:00",
+      "19:30",
+      "21:00"
+    ],
+    "status": "Pending",
+    "locationCoords": {
+      "lat": 37.805308,
+      "lng": -122.2708464
+    },
+    "googlePlaceId": "ChIJIQRT5bOAj4ARtg_luwU-pP4",
+    "location": "681556388b433d54ba8e576c",
+    "cuisine": "681555a0fb36ee657e02c30a",
+    "reviews": [],
+    "bookings": [],
+    "tables": []
+  },
+  {
+    "name": "Gather",
+    "address": "2200 Oxford Street, Berkeley",
+    "contactInfo": "OPERATIONAL",
+    "hours": "5:00 PM - 11:00 PM",
+    "cuisineType": "Mixed",
+    "costRating": "CHEAP",
+    "description": "Imported from Google Places API",
+    "main_image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AeeoHcJ1H0wjhA_uYVEX27HVWlcGkkzkDpGH35x8Za1Zo3QKFE8Oi4NMvw6ZKgDZ6pWclx3RhOji52KQCaDNnF3Kyrt5nFQV7MQS7F49UAH1jhXm56E8xmxl99BjY_wGCR8M6AMHtz0HUyruzzqGqkc3pdhu5qQ9zcUd41iP4-SDdjqU5JoARWHikH5y8-gjYLe5Ab01P_zd3Bi2c0Ddbra0tNWBrZrKjqOW0MGTtddVLNqgNfvRuOuEkKxVYErL0jdHTO4MUJFHIk_WqiQmPgMB6IUjY-Eezlwii8IoxLvxZq-NJG-1KtI_922d6GUm1TmydSOSliK8&key=AIzaSyAIvaYoXWiNpAPOAGWknC1vwIV2tAnAwcE",
+    "images": [],
+    "slug": "gather",
+    "price": "CHEAP",
+    "tableSizes": [
+      2,
+      4,
+      6
+    ],
+    "availableTimes": [
+      "18:00",
+      "19:30",
+      "21:00"
+    ],
+    "status": "Pending",
+    "locationCoords": {
+      "lat": 37.8695038,
+      "lng": -122.2661179
+    },
+    "googlePlaceId": "ChIJqUoig51-hYARUnXjcqs8-sg",
+    "location": "681556388b433d54ba8e576b",
+    "cuisine": "681555a0fb36ee657e02c30a",
+    "reviews": [],
+    "bookings": [],
+    "tables": []
+  },
+  {
+    "name": "Homeroom",
+    "address": "400 40th Street, Oakland",
+    "contactInfo": "OPERATIONAL",
+    "hours": "5:00 PM - 11:00 PM",
+    "cuisineType": "Mixed",
+    "costRating": "REGULAR",
+    "description": "Imported from Google Places API",
+    "main_image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AeeoHcJro6qnzqHazvKx9FZ-8lis24KTHxqnmRyu3EnL2iPjBspYbbjNN_hlfBK_VEKwtDkQGy9QepOVTMWho9x-kNpqroqLrmbT0QS2eEO2ytvRTod_T-V3AJ6hxgLW_QnBvA3okKV6Qc9Cbf5GHMQtYTseo1JpPG6pr-XMcpkiLN2N_K49wn3o6gzgc7K51QP5VIQLNwdrr1NDJYyfhTFM5Sc-Pp3v-S2z1h-5jLbSpeb6YG8goXmLHYnsRPRUOZl71iYbJlEyFgoF9BpRIUZo2ckt3CXsMXLml7_MDZ4tOAcb4_K-rLFTJjAQwDMHO28zLPT9ROfW5Cc&key=AIzaSyAIvaYoXWiNpAPOAGWknC1vwIV2tAnAwcE",
+    "images": [],
+    "slug": "homeroom",
+    "price": "REGULAR",
+    "tableSizes": [
+      2,
+      4,
+      6
+    ],
+    "availableTimes": [
+      "18:00",
+      "19:30",
+      "21:00"
+    ],
+    "status": "Pending",
+    "locationCoords": {
+      "lat": 37.8285946,
+      "lng": -122.2599287
+    },
+    "googlePlaceId": "ChIJeZcMg_x9hYARMvMaN9kx24Y",
+    "location": "681556388b433d54ba8e576c",
+    "cuisine": "681555a0fb36ee657e02c30a",
+    "reviews": [],
+    "bookings": [],
+    "tables": []
+  },
+  {
+    "name": "Trader Vic's",
+    "address": "9 Anchor Drive, Emeryville",
+    "contactInfo": "OPERATIONAL",
+    "hours": "5:00 PM - 11:00 PM",
+    "cuisineType": "Mixed",
+    "costRating": "EXPENSIVE",
+    "description": "Imported from Google Places API",
+    "main_image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AeeoHcLtU4VwhR3ADH4X_ezl0uk2rRLeStCb06OB1DGAf9ztBp3BChRZ2x3TDE4NY8Ch-NbbHOgG2kozJfd3ldo8vGoqZnRQsCe1whusLp1ESxLWC4Pt1xAsH7sppDtFFnP2xWCYmW5nc31KO7KC_2bHQHCyinBPGNszpSpStH-ATMod5_WwQ6MbPhvtvv8Eyg77IkYCfmVjlSH78ffp-Qk_7OihoFYlS9uN2DXlVSN_1R1Stkv5vXcUg5MwsAYRJgcq4KXQXlOfH_IfzWejIlIgiIICmEOBUjg1r647UzqQEZ9PZ5OYfvuD3gE4IoxSkU5TDmr34JjiWRvI8JUZmZ0SwSpBHE_yVjSpNIhcm-BGt9_ZpUxYXlvVGlab3CH8UBPNzo4bMEShWPqvTQyBN6idq2NdR6m2aHg-7Wn16GxtjbpSPhPoMMwI6FQ-ACRapzGyrs6I60fuKWcBNccT368lGm1121Yv6VQVv08fg5g3_boDjEKSX5hya-JbIXd9meVqo0a_1JxpHFt85NLMbBmzF1pAen41lepQyDmKAc9oqM4m_Ocl7HM4gh-d0_aH-NQ46sjn7PrZRoI5ylMIwhFn5Ia0v5L0_VRh0pEM59Oegqw_Rs7IZdechhNlUNPT84Y89wsp8BIm&key=AIzaSyAIvaYoXWiNpAPOAGWknC1vwIV2tAnAwcE",
+    "images": [],
+    "slug": "trader-vic's",
+    "price": "EXPENSIVE",
+    "tableSizes": [
+      2,
+      4,
+      6
+    ],
+    "availableTimes": [
+      "18:00",
+      "19:30",
+      "21:00"
+    ],
+    "status": "Pending",
+    "locationCoords": {
+      "lat": 37.838108,
+      "lng": -122.307847
+    },
+    "googlePlaceId": "ChIJH61_VFJ-hYARxvoUZ-jtdOY",
+    "location": "681556388b433d54ba8e576d",
+    "cuisine": "681555a0fb36ee657e02c30a",
+    "reviews": [],
+    "bookings": [],
+    "tables": []
+  },
+  {
+    "name": "The New Parkway Theater",
+    "address": "474 24th Street, Oakland",
+    "contactInfo": "OPERATIONAL",
+    "hours": "5:00 PM - 11:00 PM",
+    "cuisineType": "Mixed",
+    "costRating": "CHEAP",
+    "description": "Imported from Google Places API",
+    "main_image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AeeoHcKmGMjQ33PQlTN3h0_1Nu4ocM-CZbve0FETKOBtMHO5hY4z4v41SBsvupVourWb2EX0tdbVfkhuK_KZmv6rwR7Fm4b9e9bUCLxMHzLSv3OusrSEpPqrwVEcX-8yKa2s7q15fIlIjLHLrFwdzT0DLimsVJxtLY0hPTHAsmo_tpJsppJl5Erb4iFRamW7ki4sthN5P9d6a7aJgpQOMeEksK7EE_MK_jRDcCz3l6cX0VxsSeRzCKDdl5NWoW5-ndSh44Vx4CGFhIzVQqb-AfRxk26BPePZpTsgmltnamjM3j0fwcreSTsdY2dy_8EUdmYIoiyiPgSFm7LEooUH5GZrQe0Com7wo1xCU-fulg57wQ4-PvtMJwrt6fywgBwXjD6imGTPGW5ceEiCoOvnZLd9kmwbwV9xgBYVtv056oSWP8uvwUFj1zxPdez0QHWVt7pGZeG5jDewnP5h32ajhjureoK7Zda1frEiRWDqiTqsoXzlegqA9dfzvF5SwPz1fo9Is0DZFthe5eiKgQcD7DUA3ERIS08MlBl5AjgVy7AZMW7F2zu2MOHqYFfEkks-02jty2sVmmlf0oiCH9Hxw04SHjLkzKlGtf8POw5a6fLA7Ry3zgC1lpOzo0eK80gAPB9b&key=AIzaSyAIvaYoXWiNpAPOAGWknC1vwIV2tAnAwcE",
+    "images": [],
+    "slug": "the-new-parkway-theater",
+    "price": "CHEAP",
+    "tableSizes": [
+      2,
+      4,
+      6
+    ],
+    "availableTimes": [
+      "18:00",
+      "19:30",
+      "21:00"
+    ],
+    "status": "Pending",
+    "locationCoords": {
+      "lat": 37.813967,
+      "lng": -122.267471
+    },
+    "googlePlaceId": "ChIJFxykYquAj4ARmQ9p6V3m2LQ",
+    "location": "681556388b433d54ba8e576c",
+    "cuisine": "681555a0fb36ee657e02c30a",
+    "reviews": [],
+    "bookings": [],
+    "tables": []
+  },
+  {
+    "name": "CREAM",
+    "address": "2399 Telegraph Avenue, Berkeley",
+    "contactInfo": "OPERATIONAL",
+    "hours": "5:00 PM - 11:00 PM",
+    "cuisineType": "Mixed",
+    "costRating": "REGULAR",
+    "description": "Imported from Google Places API",
+    "main_image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AeeoHcIbqo4rItE_N0aAFIg5BZ4_qQEQMeeOy49mcLzKy-jkbOl15c3bPF-veH6u-MGqpxSnKX90F29AI0LvfR32qjuizMViY26YJrgbTu0JAq2b_tkr-5wQwjbjvhb82wQqod6ExOLCm-M4J9HcR94_b2dTDI8ghKccBM0HJcP-o_om9JOcGpfr5f1nCBEDYKTjgZp2-npxXwmvyWmMu32vy62qwXFARwiKs9sD4H6DJ9dpWN3tdLOpFcIHVnP_CoQDe8on7MkrMqdFfl5ep5jEbxrrATgC6JS95Hhm36q53fOkhjvM32-u-LmL-vU8GTfLoLz1_73xXydEBeRl9Zh9bvyqintB3eRUJlXdM58NMgFt7hN9g5PBXO5Vfbo2ZDBlLcRGojzqZ2RSc2YdszL9_HejrDKG-1m_MeEbxervXXDJURnvgwrKu5d5V-KYGiyzW_xLWd5xjMgE2kE09TNnPI76KKjbSyjHW29gvUXVOws6n0ZTKSORcx-uLQiCc8WI1mT4iD8lNDlW5QHK-wDW9j6wAJ78I41FJVpFuVKs1cctj_8Kz0UT6BN-vBQcpMA2Dix64FUww7udej4lnJMRoB61ocIEke-oRycQZiTECTaIATzlZdJPBF-UeOqb2kee8xMrHA&key=AIzaSyAIvaYoXWiNpAPOAGWknC1vwIV2tAnAwcE",
+    "images": [],
+    "slug": "cream",
+    "price": "REGULAR",
+    "tableSizes": [
+      2,
+      4,
+      6
+    ],
+    "availableTimes": [
+      "18:00",
+      "19:30",
+      "21:00"
+    ],
+    "status": "Pending",
+    "locationCoords": {
+      "lat": 37.867035,
+      "lng": -122.258725
+    },
+    "googlePlaceId": "ChIJ22MUJC98hYARqoJqj5J4EMA",
+    "location": "681556388b433d54ba8e576b",
+    "cuisine": "681555a0fb36ee657e02c30a",
+    "reviews": [],
+    "bookings": [],
+    "tables": []
+  },
+  {
+    "name": "The Starry Plough Pub",
+    "address": "3101 Shattuck Avenue, Berkeley",
+    "contactInfo": "OPERATIONAL",
+    "hours": "5:00 PM - 11:00 PM",
+    "cuisineType": "Mixed",
+    "costRating": "EXPENSIVE",
+    "description": "Imported from Google Places API",
+    "main_image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AeeoHcIKhCUANrrYS5RKrGf4Gc9BF6AGOgbhyiiHzRtNG7pVP5MTdpdhNNR_NnUfgK4hfpB6sA-mG9L_bXn3IIpTG5IETssYv_j4Fh9pAAvLbn2jdlfLRRW_z8dyfQ6cnJE0Inz1qgaMuDFXCrcQla_U2xxgI01URf8KjQ_qNVNjtGLK84EX2BeLxvtwFQfZxZgZKF4jZVGueVgerRtQxAUbjXCYxKjD8S09A6Vr_s6rpGfdr355TQ38dIjQc293Mzbqmnpj6AJ7z6tmRWzya9Ka99ViRQSkQIVlDX9D0KaUb4ro99e1PQ8i2NFxyBv8NHx0C73rXGV6xC1vNXQOs3wb89QpZYI1tvkCPk9EqtqrnlxuwyaGrRezTBzemeAmrYy4fKToj_aB3uk_IfXzNBYSYg7PEsEcxNXKZaVQIi1mOrIzaC4yIbMmLm0nTegYaNn02XX_grhmDOUCM9Bk7tAxNxc1ct4agGfmrmt8hL4Zm_yGcueuCEPTSNzNUOYdexaa22dBNo29YLOTyRCQHPBbmNklMmgwBpH3MtSh2vdDMaW8AJQeWhovA0_ENDqSWCN1jfNN96AOJFWgN2cdfZZOZDjpQ21xBOrURj-J1CREGww_7dqPJxj9aSqjDz8z_KKJuTWklA&key=AIzaSyAIvaYoXWiNpAPOAGWknC1vwIV2tAnAwcE",
+    "images": [],
+    "slug": "the-starry-plough-pub",
+    "price": "EXPENSIVE",
+    "tableSizes": [
+      2,
+      4,
+      6
+    ],
+    "availableTimes": [
+      "18:00",
+      "19:30",
+      "21:00"
+    ],
+    "status": "Pending",
+    "locationCoords": {
+      "lat": 37.85299029999999,
+      "lng": -122.2659426
+    },
+    "googlePlaceId": "ChIJWYBpOYJ-hYARHM-pU3PMre4",
+    "location": "681556388b433d54ba8e576b",
+    "cuisine": "681555a0fb36ee657e02c30a",
+    "reviews": [],
+    "bookings": [],
+    "tables": []
+  },
+  {
+    "name": "Commis",
+    "address": "3859 Piedmont Avenue, Oakland",
+    "contactInfo": "OPERATIONAL",
+    "hours": "5:00 PM - 11:00 PM",
+    "cuisineType": "Mixed",
+    "costRating": "CHEAP",
+    "description": "Imported from Google Places API",
+    "main_image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AeeoHcKqniufJIOy6t0eM5B-MGBdBjX_YmHoq1XzYzLLUhDn5Zvto_frCdRBriNHd3sWU_czfnwtaq3F_lpJVHsKFVTlvpgamV-84h8AgIciyIzrvY_54O-f-09by8DsZzL8rE1A0nSA1xjAMqA56kXNKAX_SGpzOfDqNVKNlFxGgrM50i8H7PmeBupCfB9N6aft_0HYD6SavRzVtsZBQAQiDKjhV_QciEQv7796oHG4NUwcVJcSWy3cE-nmUdRo-z32XbAnx-4I2cILKPN6PkOm9Hel3QNqcTxahf5GqNkPPp_nR7JWxmyNr4XQ7KfnWMUlx9-MOtbP&key=AIzaSyAIvaYoXWiNpAPOAGWknC1vwIV2tAnAwcE",
+    "images": [],
+    "slug": "commis",
+    "price": "CHEAP",
+    "tableSizes": [
+      2,
+      4,
+      6
+    ],
+    "availableTimes": [
+      "18:00",
+      "19:30",
+      "21:00"
+    ],
+    "status": "Pending",
+    "locationCoords": {
+      "lat": 37.8247083,
+      "lng": -122.2548833
+    },
+    "googlePlaceId": "ChIJFzl5Mfh9hYARQmOK6_pAIYw",
+    "location": "681556388b433d54ba8e576c",
+    "cuisine": "681555a0fb36ee657e02c30a",
+    "reviews": [],
+    "bookings": [],
+    "tables": []
+  },
+  {
+    "name": "The Honey Baked Ham Company",
+    "address": "4364 Piedmont Avenue, Oakland",
+    "contactInfo": "OPERATIONAL",
+    "hours": "5:00 PM - 11:00 PM",
+    "cuisineType": "Mixed",
+    "costRating": "REGULAR",
+    "description": "Imported from Google Places API",
+    "main_image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AeeoHcLT1T6n18cTQhTfkYC2-SQvaeqpuJthshgsufLQcZK2-UwqCmPxu0m1gqQ70IDvIZuHyFLSzr1-5JIjEq0y05b50KmLlnDK_KMdSXjhKXiEVBRctHvAcvn_wl0lL7fqIa0Pagwylxzs4GlBGZMzz5FJ6HkKsZB5fdP7xHVT_BIE3nEm7Ptg0jZADuhaXTjIW0WZ0w67FA9D8b131vMux08PSaXeEHUjH5DGuNP2DY0O-9nFvZxB7FrtsbGN-mpkwrtHGGsKhrjl2PxP9nEmDEq8dwgUq3-JdoMbzr3HWXXlZOSO8ZFL_od7ZEJ6SrjCAlFQgZYrFGkJ8Wri--LoGf8eKcYepD8ckH0LWbo2syjHaPuuIWAHGQwpLVNPTAVhBQ2tCM2iWSLUeTicygf4tmLWOcyZa0oUSCmL2vV0od1ejPpLjsOB7EHgq5aL1CEwOkocNxhses13geA9cxPXSkJcfmxvM3jYBi2gLd7MPGq6ZxFUtwn8-KvCQHYSey45ypWEqsNb9iVS2jUDcAVtyGnXK_8jMY05GsHxxLL3dYLmpHXZICZRzsmMILRO1XdSAS_B2XSW1KuImnyQVJfDz-XNihNbffhxqaq35PqfIfnum2FPZCCCMdJaBEnKFbhWR3W7iw&key=AIzaSyAIvaYoXWiNpAPOAGWknC1vwIV2tAnAwcE",
+    "images": [],
+    "slug": "the-honey-baked-ham-company",
+    "price": "REGULAR",
+    "tableSizes": [
+      2,
+      4,
+      6
+    ],
+    "availableTimes": [
+      "18:00",
+      "19:30",
+      "21:00"
+    ],
+    "status": "Pending",
+    "locationCoords": {
+      "lat": 37.8295694,
+      "lng": -122.2477105
+    },
+    "googlePlaceId": "ChIJy4ls-PN9hYARhyx-QZgJ1o8",
+    "location": "681556388b433d54ba8e576c",
+    "cuisine": "681555a0fb36ee657e02c30a",
+    "reviews": [],
+    "bookings": [],
+    "tables": []
+  }
+]

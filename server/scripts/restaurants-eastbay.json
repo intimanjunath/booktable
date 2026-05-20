@@ -1,0 +1,1076 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 37.8590352,
+        "lng": -122.2420658
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.8600374802915,
+          "lng": -122.2405501197085
+        },
+        "southwest": {
+          "lat": 37.8573395197085,
+          "lng": -122.2432480802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Claremont Resort & Club",
+    "photos": [
+      {
+        "height": 2399,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109304325897788427218\">Claremont Resort &amp; Club</a>"
+        ],
+        "photo_reference": "AeeoHcImGlSdE-_EbZ-DzCBn1rMow-fupbMAhfwz4gYfn-X-HOxgn2kEP_RpOG47WPDWcw_-HAVwC8qKkQhLGvd4nM2ujv4HJx17uqjYOAwVw9-JpMWbOKzSBnwGWHry3Cs9F5emU6Ij2KFVSmfDzpVmYlB1RplJr24h4rzkBdMdnYaITsB88ii6DblrEgvSg4CAB7gKF-jJY-7IinWiDo5rbk-pNwgeomYpaqKOzwkDfuK9jhDlR9MVvog9FomJK0axVl62bJb7M1iodFWoR_w2M5lVHTIb8yfHBWQPpXQx2LKo71yP0n5klmTjMJ4V9x4fusmQ4TVZ7Ic",
+        "width": 3600
+      }
+    ],
+    "place_id": "ChIJUZZ3F7Z9hYARjWG2iXRboAk",
+    "plus_code": {
+      "compound_code": "VQ55+J5 Berkeley, CA, USA",
+      "global_code": "849VVQ55+J5"
+    },
+    "rating": 4.5,
+    "reference": "ChIJUZZ3F7Z9hYARjWG2iXRboAk",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2125,
+    "vicinity": "41 Tunnel Road, Berkeley"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 37.8679648,
+        "lng": -122.2563185
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.86940888029149,
+          "lng": -122.2550011197085
+        },
+        "southwest": {
+          "lat": 37.8667109197085,
+          "lng": -122.2576990802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Graduate by Hilton Berkeley",
+    "photos": [
+      {
+        "height": 911,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109738726135740456985\">Graduate by Hilton Berkeley</a>"
+        ],
+        "photo_reference": "AeeoHcKu17wizUX_ao31JMDrw4eDAYzGCoPaAtQr3sUONmPTLpzTrDGmMy4frK-phOQ81G1R4biMVjeEdtZpEObjdJSQ_zEqoVj8JUebFoSTbkvWczcSA3Aq2ZXWPZ7-ZeVlYng0CaRh7qGtbp3_ZePLmVfD9PAmln5kZhrMGkbv6rnX68BZiqzkkLVSSzgS3jyTSZEREgdIyi5jUSnkhEOs73lhR02gUpfCj_RGMF_Rp0PFdCEBJGoLTD7ZVHzdl-ukwD-w7jxcszYZjR9P5UcvQD3iXKqUzmBAM34Y5z1h7ePbBWzTVSi80e6oFnKiHOjJAHLfYn39qXU",
+        "width": 1023
+      }
+    ],
+    "place_id": "ChIJO1q-ry98hYARXdN27wXhtqg",
+    "plus_code": {
+      "compound_code": "VP9V+5F Berkeley, CA, USA",
+      "global_code": "849VVP9V+5F"
+    },
+    "rating": 4,
+    "reference": "ChIJO1q-ry98hYARXdN27wXhtqg",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 719,
+    "vicinity": "2600 Durant Avenue, Berkeley"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 37.86918319999999,
+        "lng": -122.2684195
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.8705961302915,
+          "lng": -122.2671188697085
+        },
+        "southwest": {
+          "lat": 37.8678981697085,
+          "lng": -122.2698168302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Hotel Shattuck Plaza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112272527334193609118\">Hotel Shattuck Plaza</a>"
+        ],
+        "photo_reference": "AeeoHcLPOs4lYWR3-OVmgKB16Nxc5UgRt-WWcNx0IX9w0WEMFAUzvyHm7Dp3rl58eiwnE9xAqDN9kHglAf76ZmpNMdigl1Md7H3gec3-RxX6ETdywMaMHm_oK6xhbU-hfXE4pH6kAUc-KC9ri5UUNj4cBpKgrzph78tdBeBWK6vdIFIha4RKMr4vyAJaEJtvgI7QrTp2zLxWBCWau9J-xUY1nDGVh8wB13_C3rFuftiRuUJwYpZr9_ed9OsiOhWd3H5YSVEMOh5iUl593LdghUj9ugkwJaMPmEIGMWdc6zfCetu_sL63Q78rhwJ4DuKMlqbS67BYMLma7Nk",
+        "width": 5250
+      }
+    ],
+    "place_id": "ChIJ9SUZTJx-hYARuXH-EbqeQjU",
+    "plus_code": {
+      "compound_code": "VP9J+MJ Berkeley, CA, USA",
+      "global_code": "849VVP9J+MJ"
+    },
+    "rating": 4.2,
+    "reference": "ChIJ9SUZTJx-hYARuXH-EbqeQjU",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "cafe",
+      "night_club",
+      "lodging",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1085,
+    "vicinity": "2086 Allston Way, Berkeley"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 37.7963889,
+        "lng": -122.2788889
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.79762058029149,
+          "lng": -122.2773885197085
+        },
+        "southwest": {
+          "lat": 37.79492261970849,
+          "lng": -122.2800864802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Yoshi's",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112610219144424672528\">Clayton Light</a>"
+        ],
+        "photo_reference": "AeeoHcL9TwqcF4wquhaIlcUhIIDLsznraEWK8p6aadstaStnvB9gsPkoUC7cnhwwjoocuEr-F26jYTzFV0xn1vigJWyAf4_6HI1kRr1Nfe3KNWB_KRv7mdmhweaWJ7mGcQ0mEIfJO5ajn57gTnRHi7x_Q0Y28iSqhUI__vriBRhIjSX94iFDkD6aB5QRgCrHiCkHXCENI-mEr1lrQN4jS-8B6Y9Kr7QTri_Px2OIUsF8lt5DRcRPN9q5T0aBWh2JZRQr-Y_kskD0Ja7nkB1DzvLnXm4OZd5rGrNt5I1YbqEwhqGFqp3N_aq0mXfcc1Hg445BM-Suo9PuUgMAeSTJxlKGyX3Cy6478Sl6MbLgv3xIKb4R1GvWXGdCEeK6jLHvho_Q6QzIJY2iDLNR1jkLMyNCBLfVgxaQfbbxuSbwamM8j_3sGm2F9lOx7HumBYQ5YX6_k6Fo_8daiHkFpy-ARGG6VcPm2ijoc-6XWJx0ge95vooxufCKOCDee1ZwNPauu4v0uSi8w-gtMRQ2TJvCW6T6RIih4XBcrfAE_1h7NNgYeZmecss9P9kn-AP8i3FmIsACdqHCM0ZK4-HQ_a1guC2Bmk6cgvFJZQ1m80Kx91G0KCT4jx95O6qjJWH9IMzUppyPEMQC1ky1",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJxyGNjMeAj4ARPsZG3cEG1Jc",
+    "plus_code": {
+      "compound_code": "QPWC+HC Oakland, CA, USA",
+      "global_code": "849VQPWC+HC"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "ChIJxyGNjMeAj4ARPsZG3cEG1Jc",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "night_club",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3150,
+    "vicinity": "510 Embarcadero West, Oakland"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 37.8462961,
+        "lng": -122.2521527
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.8476167302915,
+          "lng": -122.2507140197085
+        },
+        "southwest": {
+          "lat": 37.8449187697085,
+          "lng": -122.2534119802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Zachary's Chicago Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114581793048319073657\">Jesse Kelly</a>"
+        ],
+        "photo_reference": "AeeoHcI7Ww3gh4205XZzngKlf7mKM25nFkWJv5ut4NmuoSBdcNImQZjF0jiGrigHsMt9YIXH5cDs83pRx6miV6N4rQZDG7k56Tu4FLjEM51pqofsA3zZd_B-ybrr1L6GCsUigvBNg773o0AwCZA3vu_qUt2WWsMmDY2TY-_DjxNikABVVSIWGvtrNxjUamb0p_bw8oku8Vtapcza8f9HMvKqbA7G5-u83CHeylq1Dzu4i9rp0hwRGnVVs-L1Mq3jnxK3R9IMkffh0AOY5ug0NxLcqtECoVPnpmqolyBYuny4uOhx7TTdQ-u_MDCsiCem92OKqqgqn_V_ofL1FrohTHkIB0d-4qed9ryCSAM3HOhQEWiQBYn1jAlu7m7-RLND_ivz_vEMdt2uci9Jf6QPZFltoWehKDkzz8P6IUcdeOznaKaAdOoFfvtqTkJ_M5ulRo984-C_HnHS8zQFX53HD-iKIVAlNuBdjHByXN3BoflEJRDICkRClqAj17-l7lwEUl11P_oGjDQ9PPvgjmiYQ-TrRsOXdBGOivnfjBaQcj7yi-yqybzbNQiO_JmmVxwSOFbC-CTulJFasWpemrXZb32NVsi2i91R3BvBVQLwDW4uH0gIIjm04WKxMujYtsk6p0viwNOYjaqM",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJ9bZJbMN9hYARZ3JGwPCPnfc",
+    "plus_code": {
+      "compound_code": "RPWX+G4 Oakland, CA, USA",
+      "global_code": "849VRPWX+G4"
+    },
+    "price_level": 2,
+    "rating": 4.7,
+    "reference": "ChIJ9bZJbMN9hYARZ3JGwPCPnfc",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2786,
+    "vicinity": "5801 College Avenue, Oakland"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 37.8697958,
+        "lng": -122.267582
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.87116813029149,
+          "lng": -122.2663878697085
+        },
+        "southwest": {
+          "lat": 37.8684701697085,
+          "lng": -122.2690858302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Jupiter",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101625843772849139481\">Damon Tighe</a>"
+        ],
+        "photo_reference": "AeeoHcLQH1NECBhcOdqBNGLyxZVxlpU570GymhpgEju86M4MRfzq-Z00jUxdkxizgYTqJywUtq3KjfbXKEJdb0AMrh5Si3l3B8_gcxRF_xk3i5n74dpyorF8VzFnpUemvCUXLKpeS2pqUFWjn1ew_JIbRC-aTQ5ylgyoX-w6RCuEwLygi5rNQ-4cp2bRjd5gTr4d0HwzxFzrSK9_5A76jzTco9CLgD-Zd-59cCailvqQX_LePanTOsqVG8UaRYZOdbPPgJY1wxaYUZCsg8XMd_3CG6LY5Y9RxtjzfO2nBWE04Xs6egV5J1DRMotNfsxPfvHcLJB8Udd9CLuDZ3B9UTWhHh5zyXG5S3qoEr2MHDksEOm3qC_DSfij1Ccx7cEkJGdIvQuMPx-nDgzWVkAnaL7LnbfT9SNRqlMFX8LKLx07i91TVOjNpm0wcjblrWVAx7dST0uICdMeJN9ybtlD6KP0InXNlzWjWFPb7Kf8Ry1Lh3qSBoeSrI_Qwy_8fUb-8zPR_Im7rRGM_lMNyILORFxwS0bRgnRNBpSDNflZehVouOhqvmwx2yi9DA81rtc3frRQ49spUZi9UsR6yGQIDsj0e_V5DUj_Q9mKAPFyBamEHflaKB-GzBFXOU2HD-qdvGfOOJ9aOvh-",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJNwUiuJ1-hYARlmMobInl1SI",
+    "plus_code": {
+      "compound_code": "VP9J+WX Berkeley, CA, USA",
+      "global_code": "849VVP9J+WX"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJNwUiuJ1-hYARlmMobInl1SI",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3780,
+    "vicinity": "2181 Shattuck Avenue, Berkeley"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 37.8022723,
+        "lng": -122.2615161
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.8036627802915,
+          "lng": -122.2604059697085
+        },
+        "southwest": {
+          "lat": 37.8009648197085,
+          "lng": -122.2631039302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "The Lake Chalet Seafood Bar & Grill",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105483009528630631368\">oscar simo de leon</a>"
+        ],
+        "photo_reference": "AeeoHcJUTjdFBIwricr6ESNUCeqclVDRXMknUHkHM7Ti9d5Xcz6u5ptWyZhAccdv-yPADIg8-Gpp2PV6EuIhnD3SjsPSQfxy_mDFZL8AE_OWLK1LeSWEramdk78DuJ8U1OM1xHsgvCfG7nXEwcPnyLShAcmc8OwZz0RJIn0M87uT_ItffoWSpm0pVt4hhFprtDpc9t1fXaSwFduZ6naS65dgv4hCF9SU4zksTdXfxWaLB2QGccRVzdk8fLBCbI8Ie_W_K52790shUugnVuxmE5D-8CZoS3XWpVPTg0Lnqa55OnURwk22dj_vYfdRt5cPAQiZeuumKMyppbhIoYL5AI0XO_In5s7_64nfwrgMqDFASZ_Kt_ebD4NF7N5dBNlQtooRArRFvXXh1KuXCxggw-APawFed0fMfJ5erU2z3AQDfH2-Rv5_dUg3QPGlc1nrHWvR4bA-Tj1K-QXQL-OtBzenJBAb5WuA_BvWON4Jl0I3dyxGDHLJuvCnRNEaxlBP7Dlb8QzEItt5lCVsgBe4SuSfvY3Bc9p5tOKnjlFmZCUythcaYMTR-_3fwb0JFtncuLOolRLCOjQCFJvWFuOPHMupS-jON4ol76QFX6r4_4v2vujb9YYJAIRfQiT3MjEmmJ2BMejCHg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJk5SFZ0qHj4ARgHF_fZQLnIM",
+    "plus_code": {
+      "compound_code": "RP2Q+W9 Oakland, CA, USA",
+      "global_code": "849VRP2Q+W9"
+    },
+    "price_level": 3,
+    "rating": 4.2,
+    "reference": "ChIJk5SFZ0qHj4ARgHF_fZQLnIM",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2883,
+    "vicinity": "1520 Lakeside Drive, Oakland"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 37.8474479,
+        "lng": -122.2519064
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.8487958802915,
+          "lng": -122.2506528197085
+        },
+        "southwest": {
+          "lat": 37.84609791970851,
+          "lng": -122.2533507802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Millennium",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 6000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106720162391735966937\">Millennium</a>"
+        ],
+        "photo_reference": "AeeoHcJPAKHIxFQ7QvQ9YdVY5dZRo4-JJsZxzUXm_abxzo_VZL42HEJkD4GI0BDbUUdf2GFcNvLPfSS7OHCHMVsS8c7EHkyRYhS732MVtaAAtx5nvlQPzdy5DY8w0TLfqF-pGdmLg1xZ_lvprtCawcWFrH5X1Pat3fX9NYdoZs7Cu0i71cRVVeBBTyZZgV-6xDQ4S__zAoanmwi65R86vcLJDae_C6b1AUQIsKs_8lBili5sK-IhoUI_miFbsMGPfG3SQ-p35x9BLfrDBiAqtw7NBWZzCi21b9al3CJmQYCe9ixfcTdrGbnnXReKU5075Pjy9PO9RgkzIOA",
+        "width": 3999
+      }
+    ],
+    "place_id": "ChIJ6XYD2ZGAhYARhDX0sVfc6Cc",
+    "plus_code": {
+      "compound_code": "RPWX+X6 Oakland, CA, USA",
+      "global_code": "849VRPWX+X6"
+    },
+    "price_level": 3,
+    "rating": 4.5,
+    "reference": "ChIJ6XYD2ZGAhYARhDX0sVfc6Cc",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1188,
+    "vicinity": "5912 College Avenue, Oakland"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 37.8279857,
+        "lng": -122.2500627
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.82936748029149,
+          "lng": -122.2487956697085
+        },
+        "southwest": {
+          "lat": 37.8266695197085,
+          "lng": -122.2514936302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Fentons Creamery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2683,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103734907834381546081\">Fentons Creamery</a>"
+        ],
+        "photo_reference": "AeeoHcJIUMRp6eD5iWVm-ejjvj0BFHVq562XBbgUIt4PnCqDt8arTWVua1HFLYq5f0aIQR0-qqXNQU3PGirYmfQaO8NEXM7QTh-FZQOZjM4KLZB36I3GDNO4xqYNiH0SdrpWHkupG49Y2MXrLbdHC9keAvgIEsoTon8Ntdxj1xxAa6ONU9WmWBUTPOYUE1BpRG2-N9ZM8Bx0DbvFuUhUmHry93LOorO9W85Q_IzVJy-0nqOFQITgr9-yXSx7tFzncuAOdMOdD8cDsgoxG2XtMl4oqgC8XIK2fvb-2QOHp0aRtechbZtBgsCtuqJSludKNSmPogbLA4wdAtI",
+        "width": 3775
+      }
+    ],
+    "place_id": "ChIJu948xPZ9hYARMOy-BUTq8pE",
+    "plus_code": {
+      "compound_code": "RPHX+5X Oakland, CA, USA",
+      "global_code": "849VRPHX+5X"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJu948xPZ9hYARMOy-BUTq8pE",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5661,
+    "vicinity": "4226 Piedmont Avenue, Oakland"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 37.8796069,
+        "lng": -122.2689248
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.8809441302915,
+          "lng": -122.2677070697085
+        },
+        "southwest": {
+          "lat": 37.8782461697085,
+          "lng": -122.2704050302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Chez Panisse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102177180826767391036\">Z z</a>"
+        ],
+        "photo_reference": "AeeoHcIH1mt5-ht84p-VVxFkWqbN0xIGiPpQ9FcBDMLPz3tmDNdDX8c0CGHB7St0yuvTI2w9ff-oFVluAvH5YoepNowZCzHim8Z9UXlZpFa1D01S9TZsYyRnz3C7BINUpq6SioUD6PuT_lu7i6UxH6Qx4ShPlhFwAzPpUFqaMSTV5R2wPWy_4CpY5JFF3aRJQou-X08Acfj7r0AOwoiQ_S1LUQ-9XCXLDjB80jl985OOUsP0uw5sQcOWwqI8n3QZzhemzk3-nGYwIs-3xyp62eyBuXQULtr-ceeZ-j1Qw0QT0wfApZZsz_LVyFS5GbHphDL31R2ScxarQUEAKWnNFlBakOvQQJlUxycC9rYS2HerKLQugOW0s2S3ie_huy4o5t0f08Oc7t4-koISZAZ9bryq50NtjenfohieuhDSxioA0PShRrI31bCci5kGPI0H1u5HQJIkkkoEIov7h07CshnahS4lMSKZe3uQvJkLfdD-EwmAjI2Wjsa741CdeD31jmMMSaWpwMWKzgue7AdIANN07t8NFwnGZsF7N9DCXhVg2OgEiPzuXY3-e0c5o0qEWpi2qCzt8XyTbXn6ebPB-F7-ErZ3_535J9t0vyMos19hG2Pbk7Vgl5LJiliw2cZvePUpVC3Bmw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJcYtcJaF-hYAR-VzrwZpQY0E",
+    "plus_code": {
+      "compound_code": "VPHJ+RC Berkeley, CA, USA",
+      "global_code": "849VVPHJ+RC"
+    },
+    "price_level": 4,
+    "rating": 4.6,
+    "reference": "ChIJcYtcJaF-hYAR-VzrwZpQY0E",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2221,
+    "vicinity": "1517 Shattuck Avenue, Berkeley"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 37.8636571,
+        "lng": -122.3180164
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.8649788802915,
+          "lng": -122.3164570697085
+        },
+        "southwest": {
+          "lat": 37.8622809197085,
+          "lng": -122.3191550302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Skates On The Bay",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111750859153444627866\">Skates On The Bay</a>"
+        ],
+        "photo_reference": "AeeoHcIRyF_TpTpIY-i6do5NZQ-5jcPCQSutv3lk8bxvmzuF28sxQKSk8fOsQJXhqFFHCM-aIv_8tIj_bHydaWEKWA0q9xlD0r7_no63r1xH0EijHfnAl_wMYs12YNWTh57zr3DZ5DuaoH-0OQ8tC_KqqjJxKtKTxxTpqwfIQMtVWYNlRf_1plF2-88epSe8fcl69Z6CV1g7pmEQdC2GB-svqPUZHJi2MU7cM6XEazHgFK3WQZFJ8N_5iKBt4sKk_2JocvwBwhw-G8GNib9nhQgCKrmUdEYKytYMr_6Su6t4wfgCFYSu1DHJc3Rz3VgLaTimnZWpVlAmhNg",
+        "width": 864
+      }
+    ],
+    "place_id": "ChIJjU9u7SN_hYARmRvUMMDgJXw",
+    "plus_code": {
+      "compound_code": "VM7J+FQ Berkeley, CA, USA",
+      "global_code": "849VVM7J+FQ"
+    },
+    "price_level": 3,
+    "rating": 4.2,
+    "reference": "ChIJjU9u7SN_hYARmRvUMMDgJXw",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3293,
+    "vicinity": "100 Seawall Drive, Berkeley"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 37.805308,
+        "lng": -122.2708464
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.8066306802915,
+          "lng": -122.2693666197085
+        },
+        "southwest": {
+          "lat": 37.8039327197085,
+          "lng": -122.2720645802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Awaken Cafe & Roasting",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104205707018178026702\">Awaken Cafe &amp; Roasting</a>"
+        ],
+        "photo_reference": "AeeoHcLRzZ_RzthOyhL7ayZr0h6s1jT_pyE1Z1wTMj6yBwGmspOo0nClkJr8jeXSxqAvITVDnNZOwEmtAptsV56o4yedtJcU22ji3fhA3lNhBcbChj53HVP-QS60CZJKiYO8rBA2d3hcwPH8uPmgHoT9aA9mdbguJjNiv9YO3oKTssx5SQwfpeUxoVmgMralfQlq8l6HP64ov9Dn-AXJ8fZZjqhpwX7yVSfX0i7LKzkrQDkFKJS6h4pZdMf_lULNEwZ6c96mjNSajTNm4NZ31nKHywlLh3yKtZiS7hi4m1ebvA2_q5Ckfys8zbEz6N6OGuI1zUVDeGmqAuQ",
+        "width": 3025
+      }
+    ],
+    "place_id": "ChIJIQRT5bOAj4ARtg_luwU-pP4",
+    "plus_code": {
+      "compound_code": "RP4H+4M Oakland, CA, USA",
+      "global_code": "849VRP4H+4M"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJIQRT5bOAj4ARtg_luwU-pP4",
+    "scope": "GOOGLE",
+    "types": [
+      "art_gallery",
+      "bar",
+      "cafe",
+      "restaurant",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 658,
+    "vicinity": "1429 Broadway, Oakland"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 37.8695038,
+        "lng": -122.2661179
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.8708458302915,
+          "lng": -122.2646870197085
+        },
+        "southwest": {
+          "lat": 37.8681478697085,
+          "lng": -122.2673849802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Gather",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4057,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110531395209138213212\">Gather</a>"
+        ],
+        "photo_reference": "AeeoHcJ1H0wjhA_uYVEX27HVWlcGkkzkDpGH35x8Za1Zo3QKFE8Oi4NMvw6ZKgDZ6pWclx3RhOji52KQCaDNnF3Kyrt5nFQV7MQS7F49UAH1jhXm56E8xmxl99BjY_wGCR8M6AMHtz0HUyruzzqGqkc3pdhu5qQ9zcUd41iP4-SDdjqU5JoARWHikH5y8-gjYLe5Ab01P_zd3Bi2c0Ddbra0tNWBrZrKjqOW0MGTtddVLNqgNfvRuOuEkKxVYErL0jdHTO4MUJFHIk_WqiQmPgMB6IUjY-Eezlwii8IoxLvxZq-NJG-1KtI_922d6GUm1TmydSOSliK8",
+        "width": 6086
+      }
+    ],
+    "place_id": "ChIJqUoig51-hYARUnXjcqs8-sg",
+    "plus_code": {
+      "compound_code": "VP9M+RH Berkeley, CA, USA",
+      "global_code": "849VVP9M+RH"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJqUoig51-hYARUnXjcqs8-sg",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1155,
+    "vicinity": "2200 Oxford Street, Berkeley"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 37.8285946,
+        "lng": -122.2599287
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.82989223029149,
+          "lng": -122.2586360197085
+        },
+        "southwest": {
+          "lat": 37.82719426970849,
+          "lng": -122.2613339802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Homeroom",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112486165804517100892\">Homeroom</a>"
+        ],
+        "photo_reference": "AeeoHcJro6qnzqHazvKx9FZ-8lis24KTHxqnmRyu3EnL2iPjBspYbbjNN_hlfBK_VEKwtDkQGy9QepOVTMWho9x-kNpqroqLrmbT0QS2eEO2ytvRTod_T-V3AJ6hxgLW_QnBvA3okKV6Qc9Cbf5GHMQtYTseo1JpPG6pr-XMcpkiLN2N_K49wn3o6gzgc7K51QP5VIQLNwdrr1NDJYyfhTFM5Sc-Pp3v-S2z1h-5jLbSpeb6YG8goXmLHYnsRPRUOZl71iYbJlEyFgoF9BpRIUZo2ckt3CXsMXLml7_MDZ4tOAcb4_K-rLFTJjAQwDMHO28zLPT9ROfW5Cc",
+        "width": 2403
+      }
+    ],
+    "place_id": "ChIJeZcMg_x9hYARMvMaN9kx24Y",
+    "plus_code": {
+      "compound_code": "RPHR+C2 Oakland, CA, USA",
+      "global_code": "849VRPHR+C2"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJeZcMg_x9hYARMvMaN9kx24Y",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2895,
+    "vicinity": "400 40th Street, Oakland"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 37.838108,
+        "lng": -122.307847
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.83937573029149,
+          "lng": -122.3065659697085
+        },
+        "southwest": {
+          "lat": 37.83667776970849,
+          "lng": -122.3092639302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Trader Vic's",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101303759872238347596\">David Olais</a>"
+        ],
+        "photo_reference": "AeeoHcLtU4VwhR3ADH4X_ezl0uk2rRLeStCb06OB1DGAf9ztBp3BChRZ2x3TDE4NY8Ch-NbbHOgG2kozJfd3ldo8vGoqZnRQsCe1whusLp1ESxLWC4Pt1xAsH7sppDtFFnP2xWCYmW5nc31KO7KC_2bHQHCyinBPGNszpSpStH-ATMod5_WwQ6MbPhvtvv8Eyg77IkYCfmVjlSH78ffp-Qk_7OihoFYlS9uN2DXlVSN_1R1Stkv5vXcUg5MwsAYRJgcq4KXQXlOfH_IfzWejIlIgiIICmEOBUjg1r647UzqQEZ9PZ5OYfvuD3gE4IoxSkU5TDmr34JjiWRvI8JUZmZ0SwSpBHE_yVjSpNIhcm-BGt9_ZpUxYXlvVGlab3CH8UBPNzo4bMEShWPqvTQyBN6idq2NdR6m2aHg-7Wn16GxtjbpSPhPoMMwI6FQ-ACRapzGyrs6I60fuKWcBNccT368lGm1121Yv6VQVv08fg5g3_boDjEKSX5hya-JbIXd9meVqo0a_1JxpHFt85NLMbBmzF1pAen41lepQyDmKAc9oqM4m_Ocl7HM4gh-d0_aH-NQ46sjn7PrZRoI5ylMIwhFn5Ia0v5L0_VRh0pEM59Oegqw_Rs7IZdechhNlUNPT84Y89wsp8BIm",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJH61_VFJ-hYARxvoUZ-jtdOY",
+    "plus_code": {
+      "compound_code": "RMQR+6V Emeryville, CA, USA",
+      "global_code": "849VRMQR+6V"
+    },
+    "price_level": 3,
+    "rating": 4.4,
+    "reference": "ChIJH61_VFJ-hYARxvoUZ-jtdOY",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1449,
+    "vicinity": "9 Anchor Drive, Emeryville"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 37.813967,
+        "lng": -122.267471
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.8151944802915,
+          "lng": -122.2661146697085
+        },
+        "southwest": {
+          "lat": 37.8124965197085,
+          "lng": -122.2688126302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+    "name": "The New Parkway Theater",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114543378064999712103\">Yuji Goto</a>"
+        ],
+        "photo_reference": "AeeoHcKmGMjQ33PQlTN3h0_1Nu4ocM-CZbve0FETKOBtMHO5hY4z4v41SBsvupVourWb2EX0tdbVfkhuK_KZmv6rwR7Fm4b9e9bUCLxMHzLSv3OusrSEpPqrwVEcX-8yKa2s7q15fIlIjLHLrFwdzT0DLimsVJxtLY0hPTHAsmo_tpJsppJl5Erb4iFRamW7ki4sthN5P9d6a7aJgpQOMeEksK7EE_MK_jRDcCz3l6cX0VxsSeRzCKDdl5NWoW5-ndSh44Vx4CGFhIzVQqb-AfRxk26BPePZpTsgmltnamjM3j0fwcreSTsdY2dy_8EUdmYIoiyiPgSFm7LEooUH5GZrQe0Com7wo1xCU-fulg57wQ4-PvtMJwrt6fywgBwXjD6imGTPGW5ceEiCoOvnZLd9kmwbwV9xgBYVtv056oSWP8uvwUFj1zxPdez0QHWVt7pGZeG5jDewnP5h32ajhjureoK7Zda1frEiRWDqiTqsoXzlegqA9dfzvF5SwPz1fo9Is0DZFthe5eiKgQcD7DUA3ERIS08MlBl5AjgVy7AZMW7F2zu2MOHqYFfEkks-02jty2sVmmlf0oiCH9Hxw04SHjLkzKlGtf8POw5a6fLA7Ry3zgC1lpOzo0eK80gAPB9b",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJFxykYquAj4ARmQ9p6V3m2LQ",
+    "plus_code": {
+      "compound_code": "RP7M+H2 Oakland, CA, USA",
+      "global_code": "849VRP7M+H2"
+    },
+    "rating": 4.7,
+    "reference": "ChIJFxykYquAj4ARmQ9p6V3m2LQ",
+    "scope": "GOOGLE",
+    "types": [
+      "movie_theater",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1405,
+    "vicinity": "474 24th Street, Oakland"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 37.867035,
+        "lng": -122.258725
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.8683280302915,
+          "lng": -122.2574307197085
+        },
+        "southwest": {
+          "lat": 37.86563006970851,
+          "lng": -122.2601286802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "CREAM",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1908,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111901646273188670742\">Vanessa D</a>"
+        ],
+        "photo_reference": "AeeoHcIbqo4rItE_N0aAFIg5BZ4_qQEQMeeOy49mcLzKy-jkbOl15c3bPF-veH6u-MGqpxSnKX90F29AI0LvfR32qjuizMViY26YJrgbTu0JAq2b_tkr-5wQwjbjvhb82wQqod6ExOLCm-M4J9HcR94_b2dTDI8ghKccBM0HJcP-o_om9JOcGpfr5f1nCBEDYKTjgZp2-npxXwmvyWmMu32vy62qwXFARwiKs9sD4H6DJ9dpWN3tdLOpFcIHVnP_CoQDe8on7MkrMqdFfl5ep5jEbxrrATgC6JS95Hhm36q53fOkhjvM32-u-LmL-vU8GTfLoLz1_73xXydEBeRl9Zh9bvyqintB3eRUJlXdM58NMgFt7hN9g5PBXO5Vfbo2ZDBlLcRGojzqZ2RSc2YdszL9_HejrDKG-1m_MeEbxervXXDJURnvgwrKu5d5V-KYGiyzW_xLWd5xjMgE2kE09TNnPI76KKjbSyjHW29gvUXVOws6n0ZTKSORcx-uLQiCc8WI1mT4iD8lNDlW5QHK-wDW9j6wAJ78I41FJVpFuVKs1cctj_8Kz0UT6BN-vBQcpMA2Dix64FUww7udej4lnJMRoB61ocIEke-oRycQZiTECTaIATzlZdJPBF-UeOqb2kee8xMrHA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ22MUJC98hYARqoJqj5J4EMA",
+    "plus_code": {
+      "compound_code": "VP8R+RG Berkeley, CA, USA",
+      "global_code": "849VVP8R+RG"
+    },
+    "price_level": 1,
+    "rating": 4.3,
+    "reference": "ChIJ22MUJC98hYARqoJqj5J4EMA",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 746,
+    "vicinity": "2399 Telegraph Avenue, Berkeley"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 37.85299029999999,
+        "lng": -122.2659426
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.85436813029149,
+          "lng": -122.2647340197085
+        },
+        "southwest": {
+          "lat": 37.85167016970849,
+          "lng": -122.2674319802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "The Starry Plough Pub",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112449961298322594522\">Sharon Doyle</a>"
+        ],
+        "photo_reference": "AeeoHcIKhCUANrrYS5RKrGf4Gc9BF6AGOgbhyiiHzRtNG7pVP5MTdpdhNNR_NnUfgK4hfpB6sA-mG9L_bXn3IIpTG5IETssYv_j4Fh9pAAvLbn2jdlfLRRW_z8dyfQ6cnJE0Inz1qgaMuDFXCrcQla_U2xxgI01URf8KjQ_qNVNjtGLK84EX2BeLxvtwFQfZxZgZKF4jZVGueVgerRtQxAUbjXCYxKjD8S09A6Vr_s6rpGfdr355TQ38dIjQc293Mzbqmnpj6AJ7z6tmRWzya9Ka99ViRQSkQIVlDX9D0KaUb4ro99e1PQ8i2NFxyBv8NHx0C73rXGV6xC1vNXQOs3wb89QpZYI1tvkCPk9EqtqrnlxuwyaGrRezTBzemeAmrYy4fKToj_aB3uk_IfXzNBYSYg7PEsEcxNXKZaVQIi1mOrIzaC4yIbMmLm0nTegYaNn02XX_grhmDOUCM9Bk7tAxNxc1ct4agGfmrmt8hL4Zm_yGcueuCEPTSNzNUOYdexaa22dBNo29YLOTyRCQHPBbmNklMmgwBpH3MtSh2vdDMaW8AJQeWhovA0_ENDqSWCN1jfNN96AOJFWgN2cdfZZOZDjpQ21xBOrURj-J1CREGww_7dqPJxj9aSqjDz8z_KKJuTWklA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJWYBpOYJ-hYARHM-pU3PMre4",
+    "plus_code": {
+      "compound_code": "VP3M+5J Berkeley, CA, USA",
+      "global_code": "849VVP3M+5J"
+    },
+    "price_level": 1,
+    "rating": 4.6,
+    "reference": "ChIJWYBpOYJ-hYARHM-pU3PMre4",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "night_club",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 742,
+    "vicinity": "3101 Shattuck Avenue, Berkeley"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 37.8247083,
+        "lng": -122.2548833
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.8260200302915,
+          "lng": -122.2534804197085
+        },
+        "southwest": {
+          "lat": 37.8233220697085,
+          "lng": -122.2561783802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Commis",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 667,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101548955721207057502\">Commis</a>"
+        ],
+        "photo_reference": "AeeoHcKqniufJIOy6t0eM5B-MGBdBjX_YmHoq1XzYzLLUhDn5Zvto_frCdRBriNHd3sWU_czfnwtaq3F_lpJVHsKFVTlvpgamV-84h8AgIciyIzrvY_54O-f-09by8DsZzL8rE1A0nSA1xjAMqA56kXNKAX_SGpzOfDqNVKNlFxGgrM50i8H7PmeBupCfB9N6aft_0HYD6SavRzVtsZBQAQiDKjhV_QciEQv7796oHG4NUwcVJcSWy3cE-nmUdRo-z32XbAnx-4I2cILKPN6PkOm9Hel3QNqcTxahf5GqNkPPp_nR7JWxmyNr4XQ7KfnWMUlx9-MOtbP",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJFzl5Mfh9hYARQmOK6_pAIYw",
+    "plus_code": {
+      "compound_code": "RPFW+V2 Oakland, CA, USA",
+      "global_code": "849VRPFW+V2"
+    },
+    "price_level": 4,
+    "rating": 4.7,
+    "reference": "ChIJFzl5Mfh9hYARQmOK6_pAIYw",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 655,
+    "vicinity": "3859 Piedmont Avenue, Oakland"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 37.8295694,
+        "lng": -122.2477105
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.83083868029149,
+          "lng": -122.2464474197085
+        },
+        "southwest": {
+          "lat": 37.82814071970849,
+          "lng": -122.2491453802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "The Honey Baked Ham Company",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2438,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107721404123505875377\">Trap Speed 1320</a>"
+        ],
+        "photo_reference": "AeeoHcLT1T6n18cTQhTfkYC2-SQvaeqpuJthshgsufLQcZK2-UwqCmPxu0m1gqQ70IDvIZuHyFLSzr1-5JIjEq0y05b50KmLlnDK_KMdSXjhKXiEVBRctHvAcvn_wl0lL7fqIa0Pagwylxzs4GlBGZMzz5FJ6HkKsZB5fdP7xHVT_BIE3nEm7Ptg0jZADuhaXTjIW0WZ0w67FA9D8b131vMux08PSaXeEHUjH5DGuNP2DY0O-9nFvZxB7FrtsbGN-mpkwrtHGGsKhrjl2PxP9nEmDEq8dwgUq3-JdoMbzr3HWXXlZOSO8ZFL_od7ZEJ6SrjCAlFQgZYrFGkJ8Wri--LoGf8eKcYepD8ckH0LWbo2syjHaPuuIWAHGQwpLVNPTAVhBQ2tCM2iWSLUeTicygf4tmLWOcyZa0oUSCmL2vV0od1ejPpLjsOB7EHgq5aL1CEwOkocNxhses13geA9cxPXSkJcfmxvM3jYBi2gLd7MPGq6ZxFUtwn8-KvCQHYSey45ypWEqsNb9iVS2jUDcAVtyGnXK_8jMY05GsHxxLL3dYLmpHXZICZRzsmMILRO1XdSAS_B2XSW1KuImnyQVJfDz-XNihNbffhxqaq35PqfIfnum2FPZCCCMdJaBEnKFbhWR3W7iw",
+        "width": 2576
+      }
+    ],
+    "place_id": "ChIJy4ls-PN9hYARhyx-QZgJ1o8",
+    "plus_code": {
+      "compound_code": "RQH2+RW Oakland, CA, USA",
+      "global_code": "849VRQH2+RW"
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJy4ls-PN9hYARhyx-QZgJ1o8",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "grocery_or_supermarket",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 322,
+    "vicinity": "4364 Piedmont Avenue, Oakland"
+  }
+]
