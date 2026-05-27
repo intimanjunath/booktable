@@ -5,43 +5,16 @@ An end-to-end restaurant reservation system inspired by OpenTable. Built for sea
 
 ---
 
-## Project Members
-
-- **Apurva Karne**
-- **Jayanth Kalyanam**
-- **Manjunatha Inti**
-- **Praful John**
-
----
-
 ## Summary of Team Contributions
 
 ## 🧠 Summary of Team Contributions
 
-| Member             | Contributions                                                                                 |
-|--------------------|----------------------------------------------------------------------------------------------|
-| **Apurva Karne**   | UI development (Login, Navbar, Admin, Dashboard), background integration, analytics iframe setup, logout/token expiry logic, documentation (README, journal), wireframes, diagrams, **testing** |
-| **Jayanth Kalyanam** | MongoDB Atlas integration, schema modeling, seed scripts, API route setup, deployment scripts, Google Maps embedding, backend logic (non-committed DB setup), **testing** |
-| **Manjunatha Inti** | Email/SMS functionality (booking confirmations, cancellations), UI for Manager form, reviews and booking display, Search functionality, styling improvements, Skeleton UI for all pages, **deployment** |
-| **Praful John**     | Booking logic (search filters, availability, time slots), review and rating API, Admin controls, search UI polish, MyBookings logic, restaurant CRUD functionality,search filters, availability checks, time slot validation, Google reviews integration, API testing, **deployment** |
 
----
-## Project Journal
-- [Project Journal](https://docs.google.com/document/d/1OLbJX0cfPyMAhAhNj8zvqhyna1LUZmwLvs0EK4L825s/edit?usp=sharing)
+* UI development (Login, Navbar, Admin, Dashboard), background integration, analytics iframe setup, logout/token expiry logic, documentation (README, journal), wireframes, diagrams, **testing** |
+* MongoDB Atlas integration, schema modeling, seed scripts, API route setup, deployment scripts, Google Maps embedding, backend logic (non-committed DB setup), **testing** |
+* Email/SMS functionality (booking confirmations, cancellations), UI for Manager form, reviews and booking display, Search functionality, styling improvements, Skeleton UI for all pages, **deployment** |
+* Booking logic (search filters, availability, time slots), review and rating API, Admin controls, search UI polish, MyBookings logic, restaurant CRUD functionality,search filters, availability checks, time slot validation, Google reviews integration, API testing, **deployment** |
 
----
-
-## Sprint Documents
-
-- [Sprint + Product Backlog Sheet](https://docs.google.com/spreadsheets/d/1jG01V2sUtNMrVeMWVs492YalENohklwHg5hQzDCjV0w/edit?usp=sharing)
-
----
-
-## API Documentation
-
-- [API Documentation](https://docs.google.com/document/d/1ZD9ZuWtXx9Af_8bDXyhguzjIV_lnsN4wPSAaPCYuOCg/edit?usp=sharing)
-
----
 
 ## 🔧 Tech Stack
 
