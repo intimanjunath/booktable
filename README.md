@@ -4,12 +4,6 @@
 An end-to-end restaurant reservation system inspired by OpenTable. Built for seamless table bookings, restaurant management, and admin-level analytics.
 
 ---
-
-## Summary of Team Contributions
-
-## 🧠 Summary of Team Contributions
-
-
 * UI development (Login, Navbar, Admin, Dashboard), background integration, analytics iframe setup, logout/token expiry logic, documentation (README, journal), wireframes, diagrams, **testing** |
 * MongoDB Atlas integration, schema modeling, seed scripts, API route setup, deployment scripts, Google Maps embedding, backend logic (non-committed DB setup), **testing** |
 * Email/SMS functionality (booking confirmations, cancellations), UI for Manager form, reviews and booking display, Search functionality, styling improvements, Skeleton UI for all pages, **deployment** |
